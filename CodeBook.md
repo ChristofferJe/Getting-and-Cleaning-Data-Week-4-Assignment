@@ -18,9 +18,9 @@ Also the subject ID and activity information was kept in the tidy data (2 column
 #### Subject and Activity
 The tidy data is averaged based on subject and activity. 
 
-The subject column is numbered sequentially from 1 to 30.
+**Subject:** the subject column is numbered sequentially from 1 to 30.
 
-The activity column has 6 different types of activity:
+**Activity:** the activity column has 6 different types of activity:
 
 1. WALKING
 2. WALKING_UPSTAIRS
@@ -137,7 +137,7 @@ in this repository*
 
 **Measured Variables:** all the measured variables are numeric type. 
 
-## Manipulations
+## Transformations
 
 1. **Merge**: The test and train data was merged together into one data frame.
 
