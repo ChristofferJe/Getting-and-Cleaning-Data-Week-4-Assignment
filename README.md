@@ -13,7 +13,7 @@ The creation of the tidy data set was based on the following intructions
   4. Appropriately labels the data set with descriptive variable names. 
   5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
-### Content of repository
+## Content of repository
 To solve this project I created the following files, which all is accessible in this repository:
 
 **tidydata.txt.:** is the tidy data set that I created through transformation of the original messy data.
