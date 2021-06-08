@@ -31,7 +31,7 @@ The tidy data is averaged based on subject and activity.
 
 #### Measured Variables
 The measured variables that are averaged based on subject and activity,
-is consiting of 86 different variables based either on meam or standard deviation:
+is consiting of 86 different variables based either on meam or standard deviation. All used measured variables can be seen below:
 
 "TimeBodyAccelerometer.mean...X" 
 "TimeBodyAccelerometer.mean...Y" 
