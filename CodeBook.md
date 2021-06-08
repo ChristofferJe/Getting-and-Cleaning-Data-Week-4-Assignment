@@ -139,12 +139,14 @@ in this repository*
 
 ## Transformations
 
-1. **Merge**: The test and train data was merged together into one data frame.
+1. **Merge**: the test and train data was merged together into one data frame.
 
-2. **Subsetting**: As mentioned above the original data consited of 563 variables. 
+2. **Subsetting**: as mentioned above the original data consited of 563 variables. 
    Here only the ones regarding mean and standard deviation was used in the tidy data. 
 
-3. **Name Change**: The names of the variables was changed to make them more descriptive.
+3. **Activity Code:** the activity code was changed to the actual activity it was coded to represent
 
-4. **Averaging**: The average of each measured variable was taken for each 
+4. **Name Change**: the names of the variables was changed to make them more descriptive.
+
+5. **Averaging**: the average of each measured variable was taken for each 
    activity and each subject.
