@@ -32,7 +32,7 @@ of a smartphone (Samsung Galaxy S II). The measurements were done by waist mount
 
 The variables in the Y data set are the different activities the subjects where doing while the signals from the accelerometer and gyroscope were being measured. 
 
-The complete explanation of the experiment can be found throug the following link:
+The complete explanation of the experiment can be found through the following link:
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
 ## The Creation of the Tidy Data
